@@ -21,5 +21,6 @@ Movie_app is a Movie-streaming platform used for watching top movie. In this app
 **There are different section in which we can see slideshow of the top movies, below that we can see trending movies also sort them low to high and high to low  by Rating According to users also we can see RECOMMENDED tag on the top rating movies** 
 ![Movie](https://user-images.githubusercontent.com/97450767/165793532-4040faa2-5eae-4024-abf2-4fddd0295477.png)
 <hr>
-![movie1](https://user-images.githubusercontent.com/97450767/165793626-c53b4281-390e-4747-8166-92491649a95b.png)
+![movie1](https://user-images.githubusercontent.com/97450767/165793848-59470f65-8372-4458-a3a0-25f6a83c5fd3.png)
+
 
